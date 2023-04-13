@@ -1,0 +1,11 @@
+<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg">
+    <style type="text/css">
+        .Black {
+            stroke: #727272;
+            fill: none;
+            stroke-width: 4;
+        }
+    </style>
+    <rect class="Black" rx="10" id="svg_1" height="50" width="50" y="7" x="7" />
+
+</svg>
