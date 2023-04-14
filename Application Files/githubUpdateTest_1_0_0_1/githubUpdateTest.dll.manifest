@@ -62,22 +62,22 @@
       <dsig:DigestValue>z9jRaQDjJ3p7RrLF/OAGQeVG0+9C+sEH3y9J4ZS8yrM=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="githubUpdateTest.dll" size="7168">
+  <file name="githubUpdateTest.dll" size="6656">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>DfYR+ZHchIjZD3z824l0hP0BpNi1TmzbqKeKE67K5Jk=</dsig:DigestValue>
+      <dsig:DigestValue>vCaBrBpXI/QqR9jHY6eORlB8+JGkkluKiwAB7LVfWRo=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="githubUpdateTest.exe" size="125952">
+  <file name="githubUpdateTest.exe" size="125440">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>QuPsJws9YRjNGATd3eI+24Tgi1Qo0RtFXpoDAYfCKB0=</dsig:DigestValue>
+      <dsig:DigestValue>J3U2Zv9FOSswy0KQf+HEGdoiYxIU9JsTf9kIeeJSTzk=</dsig:DigestValue>
     </hash>
   </file>
   <file name="githubUpdateTest.runtimeconfig.json" size="260">
