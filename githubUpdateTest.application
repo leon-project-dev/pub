@@ -8,7 +8,7 @@
         <beforeApplicationStartup />
       </update>
     </subscription>
-    <deploymentProvider codebase="http://192.168.5.64:8080/gitTest/githubUpdateTest.application" />
+    <deploymentProvider codebase="https://leon-project-dev.github.io/pub/githubUpdateTest.application" />
   </deployment>
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
     <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
