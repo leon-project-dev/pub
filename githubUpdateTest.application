@@ -14,8 +14,8 @@
     <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Application Files\githubUpdateTest_1_0_0_5\githubUpdateTest.dll.manifest" size="4648">
-      <assemblyIdentity name="githubUpdateTest.exe" version="1.0.0.5" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+    <dependentAssembly dependencyType="install" codebase="Application Files\githubUpdateTest_1_0_0_4\githubUpdateTest.dll.manifest" size="4648">
+      <assemblyIdentity name="githubUpdateTest.exe" version="1.0.0.4" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
