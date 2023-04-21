@@ -1,0 +1,14 @@
+<svg width="448.00000000000006" height="448.00000000000006" xmlns="http://www.w3.org/2000/svg"  version="1.1">
+ <metadata id="metadata33">image/svg+xmlMercurial</metadata>
+ <title id="title4">Mercurial</title>
+
+ <g>
+  <title>Layer 1</title>
+  <path stroke-miterlimit="4" stroke-linecap="round" stroke-width="64" id="rect3340" d="m0,192l0,128l0,128l64,0l383,0l1,0l0,-256l-64,0l0,128l-320,0l0,-128l-64,0zm128,160l64,0l0,64l-64,0l0,-64zm128,0l64,0l0,64l-64,0l0,-64z"/>
+  <rect stroke-miterlimit="4" stroke-linecap="round" stroke-width="64" id="rect3346" width="64" height="64" x="96" y="224"/>
+  <rect stroke-miterlimit="4" stroke-linecap="round" stroke-width="64" y="224" x="192" height="64" width="64" id="rect3348"/>
+  <rect stroke-miterlimit="4" stroke-linecap="round" stroke-width="64" id="rect3350" width="64" height="64" x="288" y="224"/>
+  <path stroke-miterlimit="4" stroke-linecap="round" stroke-width="64" id="rect3358" d="m208,0l0,128l-80,-80l0,48l96,96l96,-96l0,-48l-80,80l0,-128l-32,0z"/>
+  <path stroke="null" id="svg_1" d="m277.20171,83.14537l67.48114,0l20.85219,-61.11474l20.8522,61.11474l67.48113,0l-54.59329,37.77055l20.85327,61.11474l-54.59332,-37.77158l-54.5933,37.77158l20.85328,-61.11474l-54.59331,-37.77055z" stroke-width="8" fill="#bf0000"/>
+ </g>
+</svg>
