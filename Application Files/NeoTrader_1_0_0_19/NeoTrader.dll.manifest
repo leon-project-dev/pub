@@ -2463,16 +2463,16 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>tXac5M1RxrxzAaoUqD/gjhOQY4RD2cBLqf2abQMX37g=</dsig:DigestValue>
+      <dsig:DigestValue>1+4xRX4L3CBkioW7yEoiu7L2l6sHaCTQNbSDCK1e4vM=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Neo.Common.dll" size="418816">
+  <file name="Neo.Common.dll" size="419840">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>zPHBb3PfSqUcAyQ9Ig857FtiSQtGO7d0kLk+A9hB4m0=</dsig:DigestValue>
+      <dsig:DigestValue>8PrBMFlCNdbOT43iMczmJNzhDpSBoVJpqvi6LR40pDg=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Neo.Plugin.Ctp.dll" size="48128">
@@ -2481,7 +2481,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>X6Ga3MFMbABan09OsmNlvGliYGKDeKCj+whJ+JGJG7E=</dsig:DigestValue>
+      <dsig:DigestValue>766uZssfVti7L4eOZxbMS8mzbFgDoJ3bGAFM7YzxBvc=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Neo.Plugin.Fxcm.dll" size="58880">
@@ -2490,7 +2490,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>ykOFdScJIvp1Fpsca5VTERYQxdysFm5a7X6YD7ZQSoI=</dsig:DigestValue>
+      <dsig:DigestValue>MQ0FOUwyhMhq0SaNeIIcD/zyE/zyTZUrQFDlnqOGSZ8=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Neo.Plugin.Ib.dll" size="49664">
@@ -2499,7 +2499,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>NhX0rrYDJqulcAdtRumxDJPuXfoCqGBBlet71Iw/E1Y=</dsig:DigestValue>
+      <dsig:DigestValue>Xvl2D2dIAJoqA2BNIN+nqw9Dz7evwKJrH8vuNFNwQUU=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Neo.Plugin.IexCloud.dll" size="7168">
@@ -2508,7 +2508,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>dnqK/6/FQeNLlp1tjKFv3FF+aDdCJZPvY1CkQhaB6JM=</dsig:DigestValue>
+      <dsig:DigestValue>6WRfBoTUVBjLZRXo67b05rYAHT5L6PC/1/tKhzni8lE=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Neo.Plugin.RqData.dll" size="16896">
@@ -2517,7 +2517,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>J5pfe+YUJzXfmvSU/I2yw+SqU9od93/5uWjSHJ0q02A=</dsig:DigestValue>
+      <dsig:DigestValue>YwpZlDXmGJr6gGMunYDyKn/GZ1WR9aQX70TsOjCUZcw=</dsig:DigestValue>
     </hash>
   </file>
   <file name="NeoCtp.dll" size="242176">
@@ -2547,13 +2547,13 @@
       <dsig:DigestValue>ML9rcaxmzgWtwP9k5mM+g2Rw1Nu0XLuZhN+fR6Vl3Y0=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="NeoTrader.dll" size="1932288">
+  <file name="NeoTrader.dll" size="1938432">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>8ptu2nUXnRlqeMO50vFdkMZ5mUmtycrsNte3R4Zgjlo=</dsig:DigestValue>
+      <dsig:DigestValue>pghANAz/5Wa3ylEC3iR3K5oKgW69zkidy1eb4OvIG8k=</dsig:DigestValue>
     </hash>
   </file>
   <file name="NeoTrader.dll.config" size="305">
@@ -4257,13 +4257,13 @@
       <dsig:DigestValue>ahTmbNcl8nAltMFVY0fVPDOE87+Y61I07ag73gc6ApE=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Resources\Layouts\Default.xml" size="11047" writeableType="applicationData">
+  <file name="Resources\Layouts\Default.data" size="10846">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>33oz9LyzmOMifU9s5zT/FxzLLSyc/8zrtaO1AZcY/Rw=</dsig:DigestValue>
+      <dsig:DigestValue>OUSDmIB57lN4LZ7EzcIQnbc+igf+LnWlxMt4zmBtuqM=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Resources\Layouts\Default2.xml" size="9517" writeableType="applicationData">
