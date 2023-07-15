@@ -16,4 +16,4 @@ jobs:
 
     steps:   
     - name: Restore dependencies
-      run: Get-CimInstance -ClassName Win32_ComputerSystem | Select-Object -Property SystemType
+      run: wmic os get osarchitecture /format:list
